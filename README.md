@@ -23,7 +23,7 @@ Packages > MeVisLab > Resources > DemoData
 
 We suggest you use the file Thorax1_CT.small.dcm.
 
-#### 1.3 More information
+#### 1.4 More information
 For more information, see our [wiki](https://dev.azure.com/SHS-DI-DH-Brasil/CT%20Lung%20Perfusion%20Map/_wiki/wikis/Siemens_Wiki?wikiVersion=GBmain&pagePath=/CT%20Lung%20Perfusion%20Map).
 
 ### 2. Software dependencies
