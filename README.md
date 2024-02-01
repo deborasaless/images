@@ -15,7 +15,7 @@ git clone https://SHS-DI-DH-Brasil@dev.azure.com/SHS-DI-DH-Brasil/CT%20Lung%20Pe
 Open the .mlab file in the MeVisLab interface.
 
 #### 1.3 Selecting the image
-Double-click the ImageLoad Module. A new window will appear. Click the "Browse" button to select the file. Enter your MeVisLab Folder and navigate following the path:
+Double-click the ImageLoad Module. A new window will appear. Click the "Browse" button to select the file. Navigate to your MeVisLab folder and follow the path:
 
 
 Packages > MeVisLab > Resources > DemoData
